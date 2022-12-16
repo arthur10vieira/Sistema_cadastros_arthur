@@ -1,4 +1,4 @@
-<h1>Sistema de Cadastros de Algo</h1>
+<h1 align="center">Sistema de Cadastros de Algo</h1>
 
 > Status do Projeto: Em desenvolvimento
 
